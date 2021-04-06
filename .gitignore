@@ -11,10 +11,9 @@ hardhat/cache
 hardhat/node_modules
 .DS_Store
 hardhat/.DS_Store
-
+hardhat
 node_modules
 
 #Hardhat files
 cache
 artifacts
-
